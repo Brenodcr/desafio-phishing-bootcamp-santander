@@ -54,7 +54,7 @@
 
 ->Em seguida no ```setoolkit``` iremos selecionar a opção ```Custom Import``` e apontar para a pasta onde o código fonte manipulado se encontra.
 
-->Copie o diretorino da pasta onde se localiza o código fonte manipulado.
+->Copie o diretorio da pasta onde se localiza o código fonte manipulado.
 
 ->Cole o diretório no setoolkit. 
 
